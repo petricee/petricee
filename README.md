@@ -11,7 +11,7 @@
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/andrymldni">
-  <img width="2268" height="4032" alt="image" src="https://github.com/user-attachments/assets/f6788880-1234-4c29-a5fc-a376f94202fc" />
+  <img width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/83551f99-fc2e-428a-a4c6-4fc39ffcf4e8" />
 </p>
 
 <p align="center">Let's Connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Kissing%20Cat.png" alt="Kissing Cat" width="25" height="25" /></p>
