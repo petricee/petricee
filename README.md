@@ -64,14 +64,11 @@ Data Science graduate from Universitas Pembangunan Nasional "Veteran" Jawa Timur
 <h2 align="center">Languages, Frameworks & Tools</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,r,html,css,javascript,php,java" /><br><br>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,flask,tensorflow,git,github,vscode" /><br><br>
-    <img src="https://skillicons.dev/icons?i=gcp,aws,firebase,mongodb,docker,wordpress,figma" />
+    <img src="https://skillicons.dev/icons?i=python,github,vscode" />
 </div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
