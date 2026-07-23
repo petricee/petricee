@@ -79,11 +79,11 @@ ___
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petricee&theme=codeSTACKr&hide_border=true&layout=compact" alt="Top Languages"/>
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrymldni&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=petricee&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ___
 
 <div align="center">
-  <img src="https://github.com/andrymldni/andrymldni/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://github.com/petricee/petricee/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </div>
