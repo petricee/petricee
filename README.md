@@ -2,7 +2,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=3B82F7&center=true&vCenter=true&width=700&lines=Hi+There!+%F0%9F%91%8B;Welcome+to+My+GitHub!"
+      src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1000&color=FCBBC0&center=true&vCenter=true&width=700&lines=Hellooo+There!+%F0%9F%91%8B;Welcome+to+My+GitHub!+%F0%9F%98%84"
       alt="Typing SVG"
     />
   </a>
@@ -10,7 +10,7 @@
 
 <!-- Background -->
 <p align="center">
- <a href="https://github.com/andrymldni">
+ <a href="https://github.com/petricee">
   <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/264fc1a6-1b2d-4fa0-b571-25f25304641f" />
 </p>
 
