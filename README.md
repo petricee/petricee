@@ -34,42 +34,34 @@
 <h2 align="center">About Me</h2>
 <div align="justify"><p>
 <em>
-I'm a Data Science graduate from Universitas Pembangunan Nasional "Veteran" Jawa Timur (GPA 3.71/4.00), with hands-on experience in data analysis, reporting, business intelligence, and dashboard development across the banking and social security sectors. I'm proficient in SQL, Python, Microsoft Excel, and Power BI for data extraction, cleaning, validation, and visualization, with a strong foundation in statistics and analytical problem-solving. For my thesis, I built an AI-based system to detect online gambling advertisements, integrated into a web application for end-to-end content moderation of images and text. I'm passionate about turning complex data into actionable insights, and I'm committed to continuous learning in Machine Learning, Deep Learning, and Computer Vision to deliver real value for businesses and society.
+Data Science graduate from Universitas Pembangunan Nasional "Veteran" Jawa Timur (GPA 3.71). Experienced in data analysis through a government internship. Passionate about data analysis, data processing, and building data-driven solutions for better decision-making. Adaptive, open to feedback, and driven by a strong learning mindset, committed to continuous growth and delivering meaningful contributions.
 </em>
 </p></div>
 
-<h2 align="center">💼 Experience</h2>
+<h2 align="center">Experience</h2>
 
 <div align="justify">
 
-**Data Analytic Intern** — PT Bank Rakyat Indonesia | Jakarta *(Nov 2025 – May 2026)*
-- Extracted, cleaned, validated, and analyzed transactional data from multiple branches using SQL and Python to identify business trends and operational opportunities.
-- Developed Power BI dashboards and performance reports to monitor transaction volume, agent activity, and key business KPIs.
-- Performed statistical analysis and segmentation using K-Means clustering to support business strategy and agent classification programs.
-
-**Data Analyst Intern** — BPJS Ketenagakerjaan Tanjung Perak | Surabaya *(Jul 2023 – Dec 2023)*
-- Processed, cleaned, and validated 7k+ participant records to ensure data accuracy, consistency, and integrity.
-- Built Python automation scripts for data cleaning and reporting workflows, improving processing efficiency by ~15%.
-- Created dashboards and analytical reports to support data-driven decision-making.
+**Data Analyst Intern** — Dinas Komunikasi dan Informatika | Malang *(Aug 2023 – Dec 2023)*
+- Analyzed and identified key indicators in health sector data.
+- Developed a comparative reference book of Malang Regency's health data indicators for the 2020–2022 period.
+- Built and reported population forecasts for Malang Regency (2021–2031) using ARIMA time series modeling.
 
 </div>
 
-<h2 align="center">🎓 Education & Certifications</h2>
+<h2 align="center">Education & Certifications</h2>
 
 <div align="justify">
 
-**Bachelor of Data Science** — UPN Veteran Jawa Timur *(2021 – 2025)*
+**Bachelor of Data Science** — UPN Veteran Jawa Timur *(2021 – 2026)*
 
-- 🏅 Google Data Analytics Professional Certificate
-- 🏅 Google IT Automation with Python Professional Certificate
-- 🏅 Machine Learning Operations (MLOps)
-- 🏅 Alibaba Cloud – ACA Big Data Certification
-- 🏅 Bangkit Academy 2024 – Machine Learning
-- 🏅 BNSP Junior Web Programmer
+- BNSP Associate Data Scientist
+- GreatEdu SIB Cycle 6 2024 - Data Analyst Bootcamp
+- Smartpath 2024 - Data Analyst Bootcamp
 
 </div>
 
-<h2 align="center">🛠️ Languages, Frameworks & Tools</h2>
+<h2 align="center">Languages, Frameworks & Tools</h2>
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,r,html,css,javascript,php,java" /><br><br>
@@ -78,17 +70,18 @@ I'm a Data Science graduate from Universitas Pembangunan Nasional "Veteran" Jawa
 </div>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ___
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrymldni&theme=codeSTACKr&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=petricee&theme=codeSTACKr&hide_border=true&layout=compact" alt="Top Languages"/>
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrymldni&theme=codeSTACKr&hide_border=true" alt="GitHub Streak"/>
 </div>
 
