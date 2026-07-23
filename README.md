@@ -85,5 +85,5 @@ ___
 ___
 
 <div align="center">
-  <img src="https://github.com/petricee/petricee/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/petricee/petricee/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation"/>
 </div>
