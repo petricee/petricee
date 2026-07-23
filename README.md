@@ -11,7 +11,7 @@
 <!-- Background -->
 <p align="center">
  <a href="https://github.com/petricee">
-  <img width="600" height="300" alt="image" src="https://github.com/user-attachments/assets/264fc1a6-1b2d-4fa0-b571-25f25304641f" />
+  <img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/d06549d5-9d4d-4dea-a9a2-f2511281bebc" />
 </p>
 
 <p align="center">Let's Connect <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Winking Face.png" alt="Winking Face" width="25" height="25" /></p>
